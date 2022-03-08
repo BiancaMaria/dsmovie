@@ -1,4 +1,4 @@
-import '../Form/styles.css';
+import './styles.css';
 
 function Form() {
   const movie = {
